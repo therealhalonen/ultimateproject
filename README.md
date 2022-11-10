@@ -15,5 +15,7 @@ Code template for a script:
 Team=Team<teamnumber>
 echo Hello $Team
 ```
+Remember to check our [News section](https://github.com/therealhalonen/ultimateproject/blob/main/news)
+
 ***To get your `teamnumber` please contact our [Admin](mailto:admin@ultimate-project.org)***
 
