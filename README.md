@@ -3,7 +3,7 @@
 ## Who we are?
 We are a group of people.   
 As a group, we form a team. And every team has a motivational image
-![Image1](https://cdn.pixabay.com/photo/2015/03/17/02/01/cubes-677092_960_720.png)
+![Image1](https://cdn.pixabay.com/photo/2015/03/17/02/01/cubes-677092_960_720.png =50%)
 
 **We are the world!**
 - *Working together*
